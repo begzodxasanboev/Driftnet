@@ -3,7 +3,6 @@ CTF writeup: rooting a Linux box via CVE-2024-23334 (directory traversal) and CV
 
 
 
-# Driftnet — CTF Writeup
 
 **Category:** Linux | **CVEs:** CVE-2024-23334 (Directory Traversal), CVE-2025-32463 (sudo chroot priv-esc)
 
