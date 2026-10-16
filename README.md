@@ -75,7 +75,7 @@ This mapping describes the techniques reflected in the notes; it is not a claim 
 
 ## 5. Evidence and reproducibility
 
-The original walkthrough and screenshots are in the private [Driftnet Notion notes](https://app.notion.com/p/3e584380466280b5a1d0dcfc63cc1b1a). The GitHub repository currently does not contain those image files, so they are **not represented here as if they had been uploaded**.
+The original screenshots have not yet been added to this repository. They are **not represented here as if they had been uploaded**; use the evidence checklist to transfer reviewed, redacted images into the repository.
 
 Use [`docs/EVIDENCE.md`](docs/EVIDENCE.md) for the screenshot checklist and safe publishing rules. Before publishing, remove private keys and redact tokens, passwords, personal data, and any information that identifies infrastructure outside the lab.
 
