@@ -1,0 +1,26 @@
+# Credentials and private key material
+key.txt
+*.pem
+*.key
+id_ed25519
+id_rsa
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
+
+# Local tooling and generated output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+*.pcap
+*.pcapng
+
+# Local editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
