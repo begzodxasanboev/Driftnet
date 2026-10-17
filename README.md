@@ -1,7 +1,7 @@
 # Driftnet — Linux CTF Write-up
 
 > **Objective:** obtain an initial foothold through a web directory-traversal flaw, then escalate from the `deploy` account to `root` through a vulnerable `sudo` chroot implementation.
-
+> 
 **Focus areas:** Linux enumeration · Web path traversal · SSH key exposure · Local privilege escalation
 
 | Stage | Finding | Outcome |
